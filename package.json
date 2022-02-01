@@ -1,0 +1,14 @@
+{
+  "name": "rentsplitter",
+  "version": "1.0.0",
+  "description": "personal calculator for rent payment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ethan Cloin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
