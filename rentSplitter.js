@@ -27,5 +27,3 @@ const rentSplitter = (rentCharge) => {
 };
 
 module.exports = rentSplitter;
-
-console.log(rentSplitter(1850));
